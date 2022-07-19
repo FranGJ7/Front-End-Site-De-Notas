@@ -1,23 +1,10 @@
-@import './custom-colors.scss';
-
-
-
-
-.home{
-    
-    height: calc(100% - 70px);
-}
-
-h1, h3{
-    color: rgb(255, 255, 255);
-}
-
-.home-container{ 
-    height: 57rem; 
+.home-container{
+    height: 59rem;
     display: flex;
     align-items: center;
-    background-color:$custom-purple;  
 }
+
+
 
 
 

@@ -1,5 +1,4 @@
 import { Container, Card, Row, Col } from "react-bootstrap";
-import "../../../styles/users.scss";
 import HeaderLogged from "../../../components/header-logged";
 import UsersEditForm from "../../../components/users/user_edit_form"
 import UsersEditFormPassword from "../../../components/users/user_edit_password";
@@ -29,7 +28,7 @@ const UserEditScreen = () => (
           <UsersDelete />
         </Col>
       </Row>
-    </Container>
+    </Container> 
 
 
 

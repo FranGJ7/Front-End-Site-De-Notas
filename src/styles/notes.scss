@@ -1,21 +1,3 @@
-@import './custom-colors';
-
-.notes{
-    height: calc(100% - 70px);
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-}
-
 .bm-menu{
-    background:white;
-    padding-top: 10px;
-}
-
-.list-item.is-active{
-    background-color: #6908aa;
-}
-
-.notes-editor{
-    padding: 0px;
+    background:rgb(255, 255, 255);
 }

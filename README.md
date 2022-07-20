@@ -15,4 +15,11 @@ Axios para facilitar a conexão com o Back-End
 
 Icons8 - Usado para pegar icones através de CDN
 
+Para usar Clone o projeto e de Npm install para instalar todas dependencias que se encontra em meu Json, pois não subi o nodemodules.
+
+Depois de baixado de Npm start 
+
+Para se conectar com o Back-end você vai ter que instalar o mongoDB em sua maquina, a estrtutura está pronta em meu repositório no link a seguir https://github.com/FranGJ7/Back-End-Site-de-notas
+
+
 Bom aqui fica uma explicação do meu projeto, em meu Linkedin que está na descrção de meu perfil tem um rápido video de demontração do site em funcionamento e algumas funções que ele tem, fiquem a vontade em olhar o codigo e fazer criticas construtivas será bem vindo! E bora para próximo projeto.

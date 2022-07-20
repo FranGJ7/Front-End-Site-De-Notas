@@ -9,7 +9,7 @@ const UserEditScreen = () => (
   <>
     <HeaderLogged/>
     <Container>
-      <Card className='mx-auto mt-5' style={{ width: '25rem' }}>
+      <Card className='mx-auto mt-5' style={{ width: '16rem' }}>
         <Card.Body>
           <Card.Title >Informações Pessoais</Card.Title>
           <UsersEditForm />
@@ -17,7 +17,7 @@ const UserEditScreen = () => (
       </Card>
 
 
-      <Card className='mx-auto mt-3' style={{ width: '25rem' }}>
+      <Card className='mx-auto mt-3' style={{ width: '16rem' }}>
         <Card.Body>
           <Card.Title>Alterar senha</Card.Title>
           <UsersEditFormPassword />

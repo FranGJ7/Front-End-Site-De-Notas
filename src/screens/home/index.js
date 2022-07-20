@@ -11,7 +11,7 @@ const HomeScreen = () => (
     <Container className="home-container bg-primary">
       <Row>
         <Col xl>
-          <h1 class="text-white">Crie notas facilmente e acesse quando quiser na nuvem.</h1>
+          <h1 class="text-white">Crie notas facilmente e acesse quando quiser em nuvem.</h1>
           <h3 class="text-white">Acesse suas anotações de onde estiver, na hora e de graça.</h3>
           <Link to="/register">
             <Button variant="outline-light mt-4" size="lg">

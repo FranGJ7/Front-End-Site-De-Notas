@@ -17,7 +17,7 @@ Icons8 - Usado para pegar icones através de CDN
 
 Para usar Clone o projeto e de Npm install para instalar todas dependencias que se encontra em meu Json, pois não subi o nodemodules.
 
-Depois de baixado de Npm start 
+Depois de baixado de Npm run start 
 
 Para se conectar com o Back-end você vai ter que instalar o mongoDB em sua maquina, a estrtutura está pronta em meu repositório no link a seguir https://github.com/FranGJ7/Back-End-Site-de-notas
 

@@ -1,5 +1,5 @@
 Site de notas criado usando algumas bases do meu curso, aprendendo a usar rotas interagindo com back-end que também foi criado e esta em meu repositório,
-fiz algumas alteração para diferenciar com o curso criando desafios para min,  para forçar o aprendizado e explorar mais para cada dia ganhar mais conhecimento na área, no caso ele foi criado em Bulma eu alterei para Bootstrap coloquei algumas funções que não tinha e alterei algumas coisas para que a experiencia de uso fosse melhor, Criei usando React que é a biblioteca que obtei por seguir adiante, abaixo vou listar o que utilizei direto de uma pequena descrição
+fiz algumas alteração para diferenciar com o curso criando desafios para min,  para forçar o aprendizado e explorar mais para cada dia ganhar mais conhecimento na área, no caso ele foi criado em Bulma eu alterei para Bootstrap coloquei algumas funções que não tinha e alterei algumas coisas para que a experiencia de uso seja melhor, Criei usando React que é a biblioteca que obtei por seguir adiante, abaixo vou listar o que utilizei direto de uma pequena descrição
 
 React Bootstrap - Framework usado para criar todo o layout e deixando responsivo
 
@@ -23,3 +23,25 @@ Para se conectar com o Back-end você vai ter que instalar o mongoDB em sua maqu
 
 
 Bom aqui fica uma explicação do meu projeto, em meu Linkedin que está na descrção de meu perfil tem um rápido video de demontração do site em funcionamento e algumas funções que ele tem, fiquem a vontade em olhar o codigo e fazer criticas construtivas será bem vindo! E bora para próximo projeto.
+
+Imagens a seguir:
+
+Página inicial sem login:
+
+
+![Screenshot from 2022-08-26 18-48-13](https://user-images.githubusercontent.com/97806169/186995697-e32094a0-86a3-47be-a066-13bce0604bc8.png)
+
+Area de criação e edição das notas:
+
+![Screenshot from 2022-08-26 18-49-39](https://user-images.githubusercontent.com/97806169/186995788-91928375-bbba-4d5b-9a41-3839a7d84cda.png)
+
+Lista de notas já existente com data e horário de criação:
+
+![Screenshot from 2022-08-26 18-51-07](https://user-images.githubusercontent.com/97806169/186995925-622fcfb1-3d78-40d2-b5e7-091f61dd3433.png)
+
+
+
+
+![Screenshot from 2022-08-26 18-51-07](https://user-images.githubusercontent.com/97806169/186995841-03e24fe5-9e42-40a0-8ac1-265b952a8ffc.png)
+
+

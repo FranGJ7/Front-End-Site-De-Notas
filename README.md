@@ -1,28 +1,21 @@
-Site de notas criado usando algumas bases do meu curso, aprendendo a usar rotas interagindo com back-end que também foi criado e esta em meu repositório,
-fiz algumas alteração para diferenciar com o curso criando desafios para min,  para forçar o aprendizado e explorar mais para cada dia ganhar mais conhecimento na área, no caso ele foi criado em Bulma eu alterei para Bootstrap coloquei algumas funções que não tinha e alterei algumas coisas para que a experiencia de uso seja melhor, Criei usando React que é a biblioteca que obtei por seguir adiante, abaixo vou listar o que utilizei direto de uma pequena descrição
+Site de notas criado usando algumas bases do curso.<br>
+Aprendendo a usar rotas interagindo com Back-End. <br>
+Foi feito algumas alterações para diferenciar com o curso criando desafios para mim, forçando o aprendizado e explorando mais para cada dia ganhar mais conhecimento na área, no caso ele foi criado com Bulma eu alterei para Bootstrap coloquei algumas funções que não tinha e alterei algumas coisas para que a experiência de uso seja melhor.
 
-React Bootstrap - Framework usado para criar todo o layout e deixando responsivo
+React Bootstrap - Framework usado para criar todo o layout deixando responsivo.
 
-React Burguer menu - Usado para criar o menu de notas(Poderia usar do Bootstrap porém usei para aprender manipular o mesmo)
+React Burguer menu - Usado para criar o menu de notas.
 
-React Router Dom - Para melhorar e facilitar as rotas e mais.
+React Router Dom - Criar rotas e mais.
 
-React Quill - Ultilizado para criar o corpo do editor de texto onde criamos nossas notas
+React Quill - Utilizado para criar o corpo do editor de texto onde criamos as notas.
 
-Moment - Biblioteca bem conhecida por ser de facil manipulação para datas e horas
+Moment - Bibliotecade Data.
 
-Axios para facilitar a conexão com o Back-End
+Axios - para conexão com o Back-End.
 
-Icons8 - Usado para pegar icones através de CDN
+Icons8 - icones através de CDN.
 
-Para usar Clone o projeto e de Npm install para instalar todas dependencias que se encontra em meu Json, pois não subi o nodemodules.
-
-Depois de baixado de Npm run start 
-
-Para se conectar com o Back-end você vai ter que instalar o mongoDB em sua maquina, a estrtutura está pronta em meu repositório no link a seguir https://github.com/FranGJ7/Back-End-Site-de-notas
-
-
-Bom aqui fica uma explicação do meu projeto, em meu Linkedin que está na descrção de meu perfil tem um rápido video de demontração do site em funcionamento e algumas funções que ele tem, fiquem a vontade em olhar o codigo e fazer criticas construtivas será bem vindo! E bora para próximo projeto.
 
 Imagens a seguir:
 
@@ -40,7 +33,7 @@ Lista de notas já existente com data e horário de criação:
 ![Screenshot from 2022-08-26 18-51-07](https://user-images.githubusercontent.com/97806169/186995925-622fcfb1-3d78-40d2-b5e7-091f61dd3433.png)
 
 
-Àrea de atualização dados em geral de usuário:
+Àrea de atualização e dados de usuário:
 
 ![Screenshot from 2022-08-26 18-51-36](https://user-images.githubusercontent.com/97806169/186996071-12fcf911-b632-4a13-800d-c5551ae7cf0d.png)
 
